@@ -1,0 +1,22 @@
+{
+  "name": "adv-backend-basic-backend-project",
+  "version": "1.0.0",
+  "description": "Welcome to your first backend development activity. In this lab, you will build a functional web server from scratch using Node.js—without external frameworks like Express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GLOR205/adv-backend-basic-backend-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/GLOR205/adv-backend-basic-backend-project/issues"
+  },
+  "homepage": "https://github.com/GLOR205/adv-backend-basic-backend-project#readme"
+}
